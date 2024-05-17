@@ -1,0 +1,10 @@
+.seccion_perfil{
+    border-radius: 10px; 
+    border: 2px solid black;
+}
+.foto_perfil{
+    border-radius: 30px;  
+    width: 100; 
+    height: 100;
+    background-color: black;
+}
